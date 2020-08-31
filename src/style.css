@@ -1,0 +1,13 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.content-infos {
+    margin-top: -48px;
+}
+
+* {
+    font-family: 'Lato', 'sans-serif';
+}
